@@ -27,5 +27,6 @@
   - Expira Entrega 09
 12. Proyección profesional - 15/Set
   - Expira Entrega 10
-
+- Expira Entrega 11 - 20/Set
+- Entrega Final - 05/Oct
 
